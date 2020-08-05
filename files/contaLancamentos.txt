@@ -1,0 +1,18 @@
+-------------------------------------
+LANCAMENTOS
+-------------------------------------
+[Código: 44905218] - [Descrição: COLEÇÕES E MATERIAIS BIBLIOGRÁFICOS]
+[Código: 44905218] - [Descrição: COLEÇÕES E MATERIAIS BIBLIOGRÁFICOS]
+[Código: 44905224] - [Descrição: EQUIPAMENTO DE PROTEÇÃO SEGURANÇA E SOCORRO]
+[Código: 44905287] - [Descrição: MATERIAL DE CONSUMO DE USO DURADOURO]
+[Código: 44905287] - [Descrição: MATERIAL DE CONSUMO DE USO DURADOURO]
+[Código: 44905287] - [Descrição: MATERIAL DE CONSUMO DE USO DURADOURO]
+[Código: 33903016] - [Descrição: MATERIAL DE EXPEDIENTE]
+[Código: 33903016] - [Descrição: MATERIAL DE EXPEDIENTE]
+[Código: 33903024] - [Descrição: MATERIAL P/ MANUT. DE BENS IMÓVEIS/INSTALAÇÕES]
+[Código: 33903024] - [Descrição: MATERIAL P/ MANUT. DE BENS IMÓVEIS/INSTALAÇÕES]
+[Código: 33903024] - [Descrição: MATERIAL P/ MANUT. DE BENS IMÓVEIS/INSTALAÇÕES]
+[Código: 33903302] - [Descrição: PASSAGENS PARA O EXTERIOR]
+----------------------------------
+TOTAL: 63000.0
+----------------------------------
